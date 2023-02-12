@@ -1,6 +1,5 @@
 ## Hey 👋 You just arrived into my biggest project at the moment: 
-### My journey becoming a Web Developer! :blush:
-### And I'm so excited to show you what I've done so far! :smiley:
+### My journey becoming a Web Developer! :blush: And I'm so excited to show you what I've done so far! :smiley:
 
 Here you'll find repositories of the projects I've worked on as a student and some 
 others personal projects.
