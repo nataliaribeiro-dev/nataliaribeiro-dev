@@ -1,4 +1,4 @@
-## Hey 👋 You just arrived into my biggest project at the moment: 
+## Hey! Here is Natalia 👋 You just arrived into my biggest project at the moment: 
 ### My journey becoming a Web Developer! :blush: And I'm so excited to show you what I've done so far! :smiley:
 
 Here you'll find repositories of the projects I've worked on as a student and some 
@@ -26,7 +26,7 @@ So, take a look around and feel free to drop a line to share your thoughts and a
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=nataliaribeiro-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=nataliaribeiro-dev&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nataliaribeiro-dev&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nataliaribeiro-dev&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
