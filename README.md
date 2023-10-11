@@ -10,9 +10,10 @@ So, take a look around and feel free to drop a line to share your thoughts and a
 
 - 📫 How to reach me:
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-natalia-ribeiro/)
-[![what's App](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://faq.whatsapp.com/5551992075245/?helpref=uf_share)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:natilgr@hotmail.com)
+<div>
+<a href = "mailto:natilgr@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dev-natalia-ribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 
 
 # 💻 Learning now:
