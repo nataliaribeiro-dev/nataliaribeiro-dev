@@ -12,7 +12,7 @@ So, take a look around and feel free to drop a line to share your thoughts and a
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-natalia-ribeiro/)
 [![what's App](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://faq.whatsapp.com/5551992075245/?helpref=uf_share)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](natilgr@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:natilgr@hotmail.com)
 
 
 # 💻 Learning now:
