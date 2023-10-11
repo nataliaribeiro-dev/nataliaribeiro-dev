@@ -12,6 +12,7 @@ So, take a look around and feel free to drop a line to share your thoughts and a
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-natalia-ribeiro/)
 [![what's App](https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white)](https://faq.whatsapp.com/5551992075245/?helpref=uf_share)
+[ Email: natilgr@hotmail.com ]
 
 
 # 💻 Learning now:
