@@ -1,17 +1,36 @@
-## Hey! Here is Natalia 👋 You just arrived into my biggest project at the moment: 
-### My journey becoming a Web Developer! :blush: And I'm so excited to show you what I've done so far! :smiley:
+## Olá, eu sou a Natália! 👋
+
+Aqui você encontrará alguns repositórios de projetos que venho desenvolvendo, além de projetos que fazem parte do 
+curso de Desenvolvimento web do qual sou estudante.
+Me interesso especialmente por stacks de Front End como: JS e React, mas também venho estudando Python, por acreditar que é uma linguagem extremamente versátil 
+e interessante neste momento de transição e chegada das AIs.
+
+- 🔭 Sou estudante da [TRYBE](https://www.betrybe.com/) e do [FLORIPA MAIS TEC](https://floripamaistec.pmf.sc.gov.br/)
+- ⚡ Fun fact: Adoro cozinhar 🧑🏾‍🍳 e sou entusiasta da arte de fazer pães de fermentação natural e pizzas de longa fermentação 🍕
+
+Fique à vontade pra explorar meu perfil e por favor, se tiver alguma ideia ou sugestões pra compartilhar, fico super aberta
+a beter um papo 🙂
+
+- 📫 Como me encontrar:
+<div>
+<a href = "mailto:nataliaribeiro.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/dev-natalia-ribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+  
+## Hey! Here is Natália 👋 
 
 Here you'll find repositories of the projects I've worked on as a student and some 
 others personal projects.
 
-- 🔭 I’m currently studying at [TRYBE](https://www.betrybe.com/)
+- 🔭 I’m currently studying Web Development at [TRYBE](https://www.betrybe.com/)
+- ⚡ Fun fact: I am passionate about cooking 🧑🏾‍🍳, specially the art of sourdough bread and long fermentation pizza dough 🍕
 
-So, take a look around and feel free to drop a line to share your thoughts and any word of advice you  may have!
+So, take a look around and feel free to drop a line to share your thoughts and any word of advice you may have!
 
 - 📫 How to reach me:
-
+  
 <div>
-<a href = "mailto:natilgr@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:nataliaribeiro.dev@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/dev-natalia-ribeiro/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
