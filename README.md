@@ -45,8 +45,15 @@ So, take a look around and feel free to drop a line to share your thoughts and a
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) 
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
- ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Jest](https://img.shields.io/badge/Jest-323330?logo=Jest&logoColor=white)
+![RTL](https://img.shields.io/badge/testing%20library-323330?logo=testing-library&logoColor=red)
+![Mocha](https://img.shields.io/badge/mocha.js-323330?logo=mocha&logoColor=Brown)
+![Chai](https://img.shields.io/badge/chai.js-323330?logo=chai&logoColor=red)
+![sinon](https://img.shields.io/badge/sinon.js-323330?logo=sinon)
 
 </div>
   
