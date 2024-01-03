@@ -1,7 +1,7 @@
 ## Olá, eu sou a Natália! 👋
 
 Aqui você encontrará alguns repositórios de projetos que venho desenvolvendo, além de projetos que fazem parte do 
-curso de Desenvolvimento web do qual sou estudante.
+curso de Desenvolvimento web do qual sou estudante. </br>
 Me interesso especialmente por stacks de Front End como: JS e React, mas também venho estudando Python, por acreditar que é uma linguagem extremamente versátil 
 e interessante neste momento de transição e chegada das AIs.
 
@@ -20,7 +20,8 @@ a beter um papo 🙂
 ## Hey! Here is Natália 👋 
 
 Here you'll find repositories of the projects I've worked on as a student and some 
-others personal projects.
+others personal projects. </br>
+I'm into Front End stacks, like JS and React, but I've also been diving into Python. I believe it's a super versatile and interesting language, especially in this era of AI transition and advancements.
 
 - 🔭 I’m currently studying Web Development at [TRYBE](https://www.betrybe.com/)
 - ⚡ Fun fact: I am passionate about cooking 🧑🏾‍🍳, specially the art of sourdough bread and long fermentation pizza dough 🍕
